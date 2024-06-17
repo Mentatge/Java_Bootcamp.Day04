@@ -1,0 +1,2 @@
+Main-Class: edu.school21.printer.app.Main
+Class-Path: src/ex02/ImagesToChar/lib/JCDP-2.0.1.jar src/ex02/ImagesToChar/lib/jcommander-1.78.jar
